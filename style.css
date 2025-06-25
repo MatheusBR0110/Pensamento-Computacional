@@ -8,7 +8,7 @@ h1{
 
 p{
     color:black;
-    text-align: justify;
+    text-align: left;
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -37,14 +37,28 @@ blockquote{
     margin-right: 10px;
 }
 
-footer{
-    color: red;
-    text-align: center;
-    background-color: aquamarine;
-}
-
 nav{
     text-align: center;
     margin-left: 5px;
     margin-right: 5px;
+}
+
+.container{
+    background-color: aquamarine;
+}
+
+.inicio{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.meio{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.rodape{
+    color: black;
+    text-align: center;
+    background-color: blueviolet;
 }
