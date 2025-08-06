@@ -1,9 +1,10 @@
 h1{
-    color: blue;
+    color: red;
     text-align: center;
     margin-left: 5px;
     margin-right: 5px;
-    background-color: orange;
+    padding: 20px 10px;
+    background-color:black;
 }
 
 p{
@@ -44,21 +45,27 @@ nav{
 }
 
 .container{
-    background-color: aquamarine;
+    background-color: white;
 }
 
 .inicio{
     text-align: center;
-    background-color: blanchedalmond;
+    background-color: white;
 }
 
 .meio{
     text-align: center;
-    background-color: antiquewhite;
+    background-color: white;
 }
 
 .rodape{
-    color: black;
+    color: red;
     text-align: center;
-    background-color: blueviolet;
+    background-color:black;
 }
+
+table, td, th{
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 15px;
+    }
